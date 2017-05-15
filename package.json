@@ -1,6 +1,6 @@
 {
-  "name": "custom-semantic-ui",
-  "version": "0.0.1",
+  "name": "raket-semantic-ui",
+  "version": "1.0.0",
   "description": "Custom Semantic UI",
   "main": "dist/semantic.min.css",
   "scripts": {
